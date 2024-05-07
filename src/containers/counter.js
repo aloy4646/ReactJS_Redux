@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
 class Counter extends React.Component {
-    render(){
+    render() {
         const { counter, increment, decrement, reset } = this.props
 
         return (
@@ -15,7 +15,7 @@ class Counter extends React.Component {
                 </div>
                 <div>
                     <button onClick={reset}>RESET</button>
-                </div>      
+                </div>
             </div>
         )
     }

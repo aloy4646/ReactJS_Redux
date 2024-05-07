@@ -1,9 +1,9 @@
-import React from "react";
-import Counter from "./containers/counterContainer";
+import React from 'react'
+import Counter from './containers/counterContainer'
 
 class App extends React.Component {
-    render(){
-        return(
+    render() {
+        return (
             <div>
                 <header>
                     <Counter />
