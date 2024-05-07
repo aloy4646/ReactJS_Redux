@@ -1,3 +1,3 @@
-# GeeksFarm Bootcamp 6 Mei 2024
+# GeeksFarm Bootcamp 3-7 Mei 2024
 
-Mencoba Redux synchronous dan redux-thunk asynchronous pada ReactJS
+Mencoba Redux dan @redux-devtools/extension pada ReactJS
